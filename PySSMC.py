@@ -46,8 +46,6 @@ def main(argv):
         if opt in ("-v", "--verbose"):
             global _verbose
             _verbose = 1
-        else:
-            print "fuck"
 
     USERNAME = raw_input("Enter email address: ")
     PASSWORD = getpass.getpass()
