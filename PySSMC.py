@@ -19,7 +19,7 @@ SERVERIP = "smtp.gmail.com"
 PORT = 25
 
 USERNAME = "bartselen@gmail.com"
-PASSWORD = "gamecenter1"
+PASSWORD = ""
 RCPTLIST = []
 _verbose = 0
 MSGSUBJECT = "Get Ready!"
